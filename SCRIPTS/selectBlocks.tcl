@@ -1,0 +1,21 @@
+deselectAll
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram5
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram11
+#selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram19
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram14
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram3
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram7
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram6
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram18
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram17
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram2
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram10
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram4
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram1
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram15
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram9
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram16
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram12
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram8
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram13
+selectInst coreinst/ks_core1/amba_dsp1/ram2p_78kx32/ram0/ram0
